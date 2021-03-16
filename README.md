@@ -56,10 +56,10 @@ mvn package
 mvn exec:java -D "exec.mainClass"="edu.escuelaing.arep.SparkWebApp"
 
 And put in your browser: https://localhost:5000
-
-Email: daniela@gmail.com
-Password: hola123
 ```
+
+- Email: daniela@gmail.com
+- Password: hola123
 
 4. Executing the SERVICE program:
 
