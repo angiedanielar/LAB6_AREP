@@ -95,8 +95,6 @@ mvn javadoc:javadoc
 
 - [Spark](http://sparkjava.com/) - Micro framework for creating web applications in Java 8.
 
-- [CircleCI](https://circleci.com/) [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/angiedanielar/LAB6_AREP) - Continuous Integration.
-
 - [Latex](overleaf.com) - Text composition system.
 
 ## Author
