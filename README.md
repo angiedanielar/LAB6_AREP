@@ -83,9 +83,6 @@ mvn javadoc:javadoc
 
 ## Results
 
-_The results obtained._
-
-
 [Go to the video](https://github.com/angiedanielar/LAB6_AREP/video.mp4)
 
 ## Built With
