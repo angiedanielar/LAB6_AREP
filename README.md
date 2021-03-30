@@ -81,10 +81,6 @@ mvn javadoc:javadoc
 
 ![Imagen 1](resources/images/arquitectura.png)
 
-## Results
-
-[Go to the video](https://github.com/angiedanielar/LAB6_AREP/video.mp4)
-
 ## Built With
 
 - [Maven](https://maven.apache.org/) - Dependency Management
