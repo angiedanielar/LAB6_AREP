@@ -91,8 +91,6 @@ mvn javadoc:javadoc
 
 - [Spark](http://sparkjava.com/) - Micro framework for creating web applications in Java 8.
 
-- [Latex](overleaf.com) - Text composition system.
-
 ## Author
 
 - Angie Daniela Ruiz Alfonso.
